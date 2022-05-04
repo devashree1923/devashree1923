@@ -14,3 +14,23 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<h3 style="color:blue;" >About Me</h3>  
+ <div>
+ 👨🏻‍🎓 Sophomore at Vellore Institute of Technology, Chennai
+  <small><em>Expected to Graduate in 2024</em></small>
+<br>🤖 Web & UI/UX Enthusiast
+<br>⚒️ Focusing on Contributing to Open Source and several projects💜
+<br>👨‍💻 Learning C++, Java, React, Flutter and PHP
+ </div>
+ 
+ <p>
+  <a href="https://www.linkedin.com/in/devashree-pravakar-1949291b7/" rel="nofollow noreferrer" target="_blank">
+    <img src="https://img.shields.io/badge/-devashree-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/devashree-pravakar-1949291b7/" alt="linkedin"></a> <a href="https://github.com/devashree1923" rel="nofollow noreferrer">
+    <img src="https://img.shields.io/github/followers/devashree1923?label=followers&style=social" alt="github"></a>
+</p>
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devashree1923)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Khuyen's github stats](https://github-readme-stats.vercel.app/api?username=devashree1923&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
