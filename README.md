@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 <br>⚒️ Focusing on Contributing to Open Source and several projects💜
 <br>👨‍💻 Learning C++, Python, Java, React, Flutter and PHP
  </div>
- <br><br>
+ <br>
  <p>
  <h4>Let's Connect</h4>
   <a href="https://www.linkedin.com/in/devashree-pravakar-1949291b7/" rel="nofollow noreferrer" target="_blank">
@@ -33,7 +33,7 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/github/followers/devashree1923?label=followers&style=social" alt="github"></a> -->
 </p>
 
-<br><br>
+<br>
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devashree1923)](https://github.com/anuraghazra/github-readme-stats) -->
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=devashree1923&theme=dark&layout=compact)
 
