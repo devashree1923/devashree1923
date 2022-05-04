@@ -22,7 +22,7 @@ Here are some ideas to get you started:
   <small><em>Expected to Graduate in 2024</em></small>
 <br>🤖 Web & UI/UX Enthusiast
 <br>⚒️ Focusing on Contributing to Open Source and several projects💜
-<br>👨‍💻 Learning C++, Java, React, Flutter and PHP
+<br>👨‍💻 Learning C++, Python, Java, React, Flutter and PHP
  </div>
  <br><br>
  <p>
